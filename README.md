@@ -40,12 +40,17 @@ Give it a try and make your text editing tasks more efficient and accessible!
 
 ## Technologies Used
 
--   express.js
--   webpack
--   babel-loader
--   css-loader
--   concurrently
--   idb
+-   Express.js: A Node.js web application framework for building robust and scalable server-side components.
+
+-   Webpack: A powerful module bundler that helps manage and optimize the application's frontend assets.
+
+-   Babel-loader: A Webpack loader for transpiling JavaScript using Babel, ensuring compatibility across different environments.
+
+-   CSS-loader: Used to process CSS files and styles, enabling efficient styling of the application.
+
+-   Concurrently: A tool for running multiple npm scripts concurrently, streamlining development and build processes.
+
+-   IDB (IndexedDB): A low-level API for storing structured data in web browsers, providing offline data persistence for the application.
 
 ## License
 
