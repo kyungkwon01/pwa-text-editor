@@ -32,9 +32,11 @@ Then run the following command:
 
 ## Usage
 
-In the application, you are able to enter text or code snippets. Once entered in the text editor, it will be saved into the Database. It will GET all the text entered when refreshed, reopened, or offline.
+You can effortlessly enter text or code snippets in the text editor. Any content you type or paste will be automatically saved into the application's database. This means that your data is persistently stored, and you won't lose your work even when you refresh the page, reopen the application, or use it in an offline mode.
 
-There is a button on the top left corner `Install!`. This will download the application on to your local machine, allowing the user to use it without using the browser.
+To enhance your user experience, we offer an option to install the Text Editor PWA directly onto your local machine. You'll find the "Install!" button conveniently located in the top left corner of the application. By clicking this button, you can download and install the application, allowing you to use it as a standalone application on your device. This means you can enjoy all the application's features without relying on a web browser.
+
+Give it a try and make your text editing tasks more efficient and accessible!
 
 ## Technologies Used
 
